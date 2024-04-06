@@ -1,4 +1,7 @@
 # This is a template. Run `cp config.toml.template config.toml` to use it.
 
-LLM_API_KEY="<YOUR OPENAI API KEY>"
+LLM_MODEL="claude-3-opus"
+# LLM_API_KEY=""
+# LLM_BASE_URL=""
+# LLM_EMBEDDING_MODEL=""
 WORKSPACE_DIR="./workspace"
